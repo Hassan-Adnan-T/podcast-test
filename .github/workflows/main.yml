@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-     - name: Run Feed Generator
-       uses: Hassan-Adnan-T/podcast-generator@main
+      - name: Run Feed Generator
+        uses: Hassan-Adnan-T/podcast-generator@main
       
